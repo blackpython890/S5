@@ -28,7 +28,7 @@ So we had divided the problems into multiple parts and then tried to
 
 Result :
   We had successfully achieve the target accuracy of 99.40% .
-  1. Parameters            : 90736
+  1. Parameters            : 9736
   2. Best Train Accuracy   : 98.09%
   3. Best Test Accuracy    : 99.45%
 
