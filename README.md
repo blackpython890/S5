@@ -2,10 +2,10 @@
 ## Model Implemenatation
 ![Contributors](https://img.shields.io/github/contributors/jagatabhay/TSAI?style=plastic)&nbsp;&nbsp;
 
-This repository is the work link and the continuation of model implemantation part. Kindly [click on link](https://github.com/jagatabhay/TSAI) to know about the project.
+This repository is the work link and the continuation of model implementation part of Computer Vision Project. Kindly [click on link](https://github.com/jagatabhay/TSAI) to know more about the project.
 
 ### Objective:
-In this project we will train the model with MNIST dataset and to achieve 99.40% accuracy with below mentioned contrained.
+In this module we will train the model with MNIST dataset and to achieve 99.40% accuracy with below mentioned contrained.
 - Parameters <=10K
 - Epoch <= 15
 - Target : 99.40% not once but for consistently 4 epoch
